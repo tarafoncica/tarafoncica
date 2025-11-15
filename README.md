@@ -1,5 +1,5 @@
-<a href="URL_REDIRECT" target="blank"center"## Hi there 👋
-src="URL_TO_YOUR_IMAGE" height="100" /></a>
+🥰## Hi there 👋
+💝
 <!--
 **tarafoncica/tarafoncica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
