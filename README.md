@@ -1,5 +1,6 @@
-📌work in progress 🦾
-💝🌻💮🦋📷
+Hey 👋 Welcome to my Profile
+My name is Tarafoncica, a Filipina who lives in Spain ☀️☀️🏖️🌴🍷
+
 <!--
 **tarafoncica/tarafoncica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
